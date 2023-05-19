@@ -23,7 +23,7 @@ If an update is available, follow the prompts to update your Spotify application
 
 Now that you have Spotify installed (or updated), it's time to install and run Spicetify. Follow these steps:
 
-Download the "Spicetify.7z" file from the official GitHub repository at [insert link here].
+Download the "Spicetify.7z" file from the official GitHub repository at https://github.com/Tazim141/Spicetify-GUI/releases/download/v1.0/Spicetify.zip .
 Once the download is complete, extract the contents of the archive to a folder of your choice.
 Locate the "gui.exe" file within the extracted Spicetify folder and left-click on "Install Spicetify" to run the program.
 
