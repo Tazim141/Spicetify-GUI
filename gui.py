@@ -45,7 +45,7 @@ button_uninstall_spicetify = tk.Button(window, text="Uninstall", command=uninsta
 button_uninstall_spicetify.grid(row=0, column=1, padx=5, pady=5)
 button_uninstall_spicetify.bind("<Enter>", lambda event: button_uninstall_spicetify.config(bg="#b3b3b3"))
 button_uninstall_spicetify.bind("<Leave>", lambda event: button_uninstall_spicetify.config(bg="#535353"))
-button_uninstall_spicetify.config(borderwidth=0,)
+button_uninstall_spicetify.config(borderwidth=0)
 
 # Start the GUI event loop
 window.mainloop()
